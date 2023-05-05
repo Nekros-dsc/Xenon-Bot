@@ -1,0 +1,19 @@
+{
+  "name": "xenon-bot-javascript-edition",
+  "version": "1.0.0",
+  "description": "/novaworld remade xenon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nekros",
+  "license": "ISC",
+  "dependencies": {
+    "approximate-number": "^2.0.0",
+    "discord.js": "^12.5.3",
+    "djs-commands": "^1.2.2",
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "hastebin-gen": "^2.0.5"
+  }
+}
